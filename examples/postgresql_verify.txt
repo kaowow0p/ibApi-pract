@@ -1,0 +1,19 @@
+-- PostgreSQL database check results
+
+-- Categories table:
+ id |       title        
+----+--------------------
+  1 | Fiction
+  2 | Non-fiction
+  3 | Тестовая категория
+(3 rows)
+
+-- Books table:
+ id |                           title                           |         description          | price | category_id | url 
+----+------------------------------------------------------------+------------------------------+-------+-------------+---------------------
+  1 | The Strange Case of Dr. Jekyll and Mr. Hyde               | A classic novel about...     |  8.99 |           1 |
+  2 | 1984                                                       | A dystopian novel about...   | 11.50 |           1 |
+  3 | Sapiens: A Brief History of Humankind                     | A wide-ranging history...    | 14.99 |           2 |
+  4 | Atomic Habits                                              | Practical strategies for...  | 12.80 |           2 |
+  5 | Тестовая книга                                             | Описание тестовой книги     | 99.99 |           3 | https://example.com
+(5 rows)

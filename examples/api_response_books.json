@@ -1,0 +1,42 @@
+[
+    {
+        "title": "The Strange Case of Dr. Jekyll and Mr. Hyde",
+        "description": "A classic novel about dual personality and morality.",
+        "price": 8.99,
+        "category_id": 1,
+        "url": "",
+        "id": 1
+    },
+    {
+        "title": "1984",
+        "description": "A dystopian novel about surveillance and totalitarianism.",
+        "price": 11.5,
+        "category_id": 1,
+        "url": "",
+        "id": 2
+    },
+    {
+        "title": "Sapiens: A Brief History of Humankind",
+        "description": "A wide-ranging history of human development.",
+        "price": 14.99,
+        "category_id": 2,
+        "url": "",
+        "id": 3
+    },
+    {
+        "title": "Atomic Habits",
+        "description": "Practical strategies for building good habits and breaking bad ones.",
+        "price": 12.8,
+        "category_id": 2,
+        "url": "",
+        "id": 4
+    },
+    {
+        "title": "\u0422\u0435\u0441\u0442\u043e\u0432\u0430\u044f \u043a\u043d\u0438\u0433\u0430",
+        "description": "\u041e\u043f\u0438\u0441\u0430\u043d\u0438\u0435 \u0442\u0435\u0441\u0442\u043e\u0432\u043e\u0439 \u043a\u043d\u0438\u0433\u0438",
+        "price": 99.99,
+        "category_id": 3,
+        "url": "https://example.com",
+        "id": 5
+    }
+]
